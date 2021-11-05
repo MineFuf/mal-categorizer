@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mal-categorizer/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/mal-categorizer/static/js/main.26ab4e21.chunk.js",
+    "main.js.map": "/mal-categorizer/static/js/main.26ab4e21.chunk.js.map",
+    "runtime-main.js": "/mal-categorizer/static/js/runtime-main.d0938845.js",
+    "runtime-main.js.map": "/mal-categorizer/static/js/runtime-main.d0938845.js.map",
+    "static/js/2.58a89c0b.chunk.js": "/mal-categorizer/static/js/2.58a89c0b.chunk.js",
+    "static/js/2.58a89c0b.chunk.js.map": "/mal-categorizer/static/js/2.58a89c0b.chunk.js.map",
+    "static/js/3.c8175086.chunk.js": "/mal-categorizer/static/js/3.c8175086.chunk.js",
+    "static/js/3.c8175086.chunk.js.map": "/mal-categorizer/static/js/3.c8175086.chunk.js.map",
+    "index.html": "/mal-categorizer/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/mal-categorizer/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.58a89c0b.chunk.js.LICENSE.txt": "/mal-categorizer/static/js/2.58a89c0b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/mal-categorizer/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0938845.js",
+    "static/js/2.58a89c0b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.26ab4e21.chunk.js"
+  ]
+}
